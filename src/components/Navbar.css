@@ -1,0 +1,13 @@
+.navbar-brand {
+  font-size: 30px;
+
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-weight: 700;
+  font-style: italic;
+  text-shadow: whitesmoke;
+  color: white;
+
+  letter-spacing: 2px;
+
+  cursor: pointer;
+}
